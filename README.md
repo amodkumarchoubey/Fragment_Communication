@@ -1,4 +1,4 @@
-# Fragmentcommunication
+# communicate between fragments
 
 The communication between fragments should not be done directly. There are two ways of doing so.
 
